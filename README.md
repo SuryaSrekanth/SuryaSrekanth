@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Profile
 <h1 align="center">Hi 👋, I'm Surya Srekanth</h1>
 <h3 align="center">I'm known for my critical thinking and curious to learn new things.</h3>
 
