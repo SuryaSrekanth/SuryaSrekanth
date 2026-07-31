@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Surya Srekanth</h1>
 <h3 align="center">I'm known for my critical thinking and curious to learn new things.</h3>
 
-- 🔭 I’m currently working on **Textile Field** & **[Personal Resume AI Chatbot](https://resume-ai-bot.streamlit.app/)** 🤖
+- 🔭 I’m currently working on **Textile Field**
 
 - 🌱 I’m currently learning **AI courses**
 
@@ -12,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://suryasrekanth.netlify.app/](https://suryasrekanth.netlify.app/)
 
 - 🤖 **Live Project**: Try my **[Personal Resume AI Chatbot](https://resume-ai-bot.streamlit.app/)** ([GitHub Repository](https://github.com/SuryaSrekanth/resume-ai-bot))
+
+- 🧵 **Live Project**: Try My **[AI Yarn Defect Assistant](https://ai-yarn-defect-assistant.streamlit.app/)** ([GitHub Repository](https://github.com/SuryaSrekanth/ai-yarn-defect-assistant))
 
 - 📫 How to reach me **suryasrekanth@gmail.com**
 
