@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Surya Srekanth</h1>
 <h3 align="center">I'm known for my critical thinking and curious to learn new things.</h3>
 
-- 🔭 I’m currently working on **Textile Field**
+- 🔭 I’m currently working on **Textile Field** & **[Personal Resume AI Chatbot](https://resume-ai-bot.streamlit.app/)** 🤖
 
 - 🌱 I’m currently learning **AI courses**
 
 - 👯 I’m looking to collaborate on **Tech and AI field**
 
 - 👨‍💻 All of my projects are available at [https://suryasrekanth.netlify.app/](https://suryasrekanth.netlify.app/)
+
+- 🤖 **Live Project**: Try my **[Personal Resume AI Chatbot](https://resume-ai-bot.streamlit.app/)** ([GitHub Repository](https://github.com/SuryaSrekanth/resume-ai-bot))
 
 - 📫 How to reach me **suryasrekanth@gmail.com**
 
