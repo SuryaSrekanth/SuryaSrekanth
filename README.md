@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Tech and AI field**
 
-- 👨‍💻 All of my projects are available at [https://suryasrekanth.netlify.app/](https://suryasrekanth.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://suryasrekanth.vercel.app/](https://suryasrekanth.vercel.app/)
 
 - 🤖 **Live Project**: Try my **[Personal Resume AI Chatbot](https://resume-ai-bot.streamlit.app/)** ([GitHub Repository](https://github.com/SuryaSrekanth/resume-ai-bot))
 
