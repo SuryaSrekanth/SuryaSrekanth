@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Textile Field**
 
-- 🌱 I’m currently learning **AI courses**
+- 🌱 I’m currently learning **AI courses & Full-Stack-Developement**
 
 - 👯 I’m looking to collaborate on **Tech and AI field**
 
