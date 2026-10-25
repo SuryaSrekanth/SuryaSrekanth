@@ -6,8 +6,6 @@
 
 - 🔭 I'm currently working on **Textile Field as an Lab Technician **
 
-- 🌱 I'm currently learning **MERN and Flask**
-
 - 💬 Ask me about **Web Development and My Current Profession**
 
 - 📫 How to reach me **suryasrekanth@gmail.com**
