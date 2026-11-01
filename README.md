@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/SuryaSrekanth" target="blank"><img src="https://img.shields.io/twitter/follow/SuryaSrekanth?logo=twitter&style=for-the-badge" alt="SuryaSrekanth" /></a> </p>
 
-- 🔭 I'm currently working on **Textile Field as an Lab Technician **
+- 🔭 I'm currently working on **Textile Field as an Lab Technician**
 
 - 💬 Ask me about **Web Development and My Current Profession**
 
