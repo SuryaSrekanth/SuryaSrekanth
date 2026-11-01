@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://suryasrekanth.vercel.app](https://suryasrekanth.vercel.app)**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1rjJ1sKY1EeX9WNVeH-rR4iQBrnQbhlV_/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1vO9jagNmcLHdzJUlW-TqntQ8K5zwo606/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
