@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **suryasrekanth@gmail.com**
 
-- ⚡ Fun fact **I Think I'm an Good Traditional Artist...**
+- ⚡ Fun fact **I'm an Good Traditional Artist...**
 
 - 👨‍💻 All of my projects are available at **[https://suryasrekanth.vercel.app](https://suryasrekanth.vercel.app)**
 
